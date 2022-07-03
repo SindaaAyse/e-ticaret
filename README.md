@@ -1,0 +1,2 @@
+# e-ticaret
+e-ticaret
